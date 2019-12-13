@@ -1,0 +1,9 @@
+
+name: translate-and-echo
+description: 'Sends any new files to google trasnlate and echos them out.'
+branding:
+  icon: 'sliders'
+  color: 'purple'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
